@@ -28,7 +28,7 @@ const modals = () => {
     windowModal(".popup_engineer_btn", ".popup_engineer .popup_close", ".popup_engineer");
     windowModal(".phone_link", ".popup .popup_close", ".popup");
 
-    modalDefault(".popup", 60000)
+    // modalDefault(".popup", 60000)
 
 };
 
